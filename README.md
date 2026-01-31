@@ -101,6 +101,7 @@ client.close()
 
 
 server.py
+
 import socket
 from base64 import decode
 from operator import truediv
